@@ -1,14 +1,4 @@
-﻿[
-                {
-                    "Id": 0,
-                    "Nombre": "Causas de muerte a nivel anual - Número de personas para total como sexo del fallecido, de 90 a 94 años como grupo quinquenal de edad del fallecido, enfermedades infecciosas y parasitarias como causa de muerte y España como país",
-                    "SonDatosNumericos": true,
-                    "Fuente": "INE",
-                    "Clasificacion": null,
-                    "Unidad": "Número de personas",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
+[
                         {
                             "Agno": 2020,
                             "Periodo": "Año",
