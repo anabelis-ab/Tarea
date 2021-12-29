@@ -1,12 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/grupos-edad-mas-muertos-enfermedades-infecciosas-2020/2322375d-5fff-4d78-ad6f-b1871866177f",
-    "Respuesta": {
-        "Id": "2322375d-5fff-4d78-ad6f-b1871866177f",
-        "Url": "www.epdata.es/grupos-edad-mas-muertos-enfermedades-infecciosas-2020/2322375d-5fff-4d78-ad6f-b1871866177f",
-        "Titulo": "Grupos de edad con más muertos por enfermedades infecciosas en 2020",
-        "Subtitulo": "",
-        "Datos": {
-            "Metricas": [
+﻿[
                 {
                     "Id": 0,
                     "Nombre": "Causas de muerte a nivel anual - Número de personas para total como sexo del fallecido, de 90 a 94 años como grupo quinquenal de edad del fallecido, enfermedades infecciosas y parasitarias como causa de muerte y España como país",
