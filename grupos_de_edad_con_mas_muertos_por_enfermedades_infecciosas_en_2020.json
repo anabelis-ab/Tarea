@@ -1,0 +1,193 @@
+﻿{
+    "Url": "www.epdata.es/grupos-edad-mas-muertos-enfermedades-infecciosas-2020/2322375d-5fff-4d78-ad6f-b1871866177f",
+    "Respuesta": {
+        "Id": "2322375d-5fff-4d78-ad6f-b1871866177f",
+        "Url": "www.epdata.es/grupos-edad-mas-muertos-enfermedades-infecciosas-2020/2322375d-5fff-4d78-ad6f-b1871866177f",
+        "Titulo": "Grupos de edad con más muertos por enfermedades infecciosas en 2020",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Causas de muerte a nivel anual - Número de personas para total como sexo del fallecido, de 90 a 94 años como grupo quinquenal de edad del fallecido, enfermedades infecciosas y parasitarias como causa de muerte y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Número de personas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 1 a 4 años",
+                            "Valor": 8,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 10 a 14 años",
+                            "Valor": 8,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 15 a 19 años ",
+                            "Valor": 15,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 20 a 24 años",
+                            "Valor": 20,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 25 a 29 años",
+                            "Valor": 60,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 30 a 34 años",
+                            "Valor": 79,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 35 a 39 años",
+                            "Valor": 147,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 40 a 44 años",
+                            "Valor": 240,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 45 a 49 años",
+                            "Valor": 538,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 5 a 9 años",
+                            "Valor": 4,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 50 a 54 años",
+                            "Valor": 961,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 55 a 59 años",
+                            "Valor": 1599,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 60 a 64 años",
+                            "Valor": 2546,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 65 a 69 años",
+                            "Valor": 3705,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 70 a 74 años",
+                            "Valor": 6062,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 75 a 79 años  ",
+                            "Valor": 9345,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 80 a 84 años  ",
+                            "Valor": 13543,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 85 a 89 años",
+                            "Valor": 19692,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 90 a 94 años",
+                            "Valor": 15224,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "De 95 y más años",
+                            "Valor": 6983,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "Menos de 1 año",
+                            "Valor": 17,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
